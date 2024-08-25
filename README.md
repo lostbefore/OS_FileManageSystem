@@ -67,25 +67,25 @@
 
 总体预览
 
-![](C:\Users\user\Desktop\Works\OS_FileManageSystem\other\1.png)
+![](other\1.png)
 
 打开/删除/重命名文件，查看文件属性
 
-![](C:\Users\user\Desktop\Works\OS_FileManageSystem\other\2.png)
+![](other\2.png)
 
-![](C:\Users\user\Desktop\Works\OS_FileManageSystem\other\5.png)
+![](other\5.png)
 
 通过左侧目录树实现跳转
 
-![](C:\Users\user\Desktop\Works\OS_FileManageSystem\other\3.png)
+![](other\3.png)
 
 新建文件/文件夹，更改图标大小
 
-![](C:\Users\user\Desktop\Works\OS_FileManageSystem\other\4.png)
+![](other\4.png)
 
 下方显示所占空间
 
-![](C:\Users\user\Desktop\Works\OS_FileManageSystem\other\6.png)
+![](other\6.png)
 
 #### 项目评估
 
